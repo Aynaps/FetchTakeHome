@@ -1,0 +1,23 @@
+{
+  "name": "fetchtakehome",
+  "version": "1.0.0",
+  "description": "Take Home Exercise for Fetch Rewards",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aynaps/FetchTakeHome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aynaps/FetchTakeHome/issues"
+  },
+  "homepage": "https://github.com/Aynaps/FetchTakeHome#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
