@@ -1,5 +1,6 @@
 # FetchTakeHome
-Take Home Exercise for Fetch Rewards
+Take Home Exercise for Fetch Rewards  
+Feel free to use any API testing tool or just plain cURLs
 
 # How to run
 1. Clone repo
@@ -25,4 +26,3 @@ If the ledger is empty or points is null then the endpoint will have no effect
 **Parameters:** None  
 This will check if the ledger is empty and notify that there are no transactions in ledger.  
 
-Feel free to use any API testing tool or just plain cURLs
