@@ -5,7 +5,7 @@ Feel free to use any API testing tool or just plain cURLs
 # How to run
 1. Clone repo
 2. Run `npm i`
-3. Once packages have been installed cd into root directory and run `npm start` 
+3. Once packages have been installed `cd` into root directory and run `npm start` 
 4. Open `localhost:3000`
 
 # How to Use
